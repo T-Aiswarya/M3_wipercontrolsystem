@@ -1,3 +1,3 @@
-ABSTRACT
+## ABSTRACT
      
 A wiper is a vital component that removes rainfall or any other liquid from the windscreen of a vehicle.Wipers play a key role during adverse weather conditions by wiping the rain continuously over the windsheild area and provides a clear vision to the driver. Previously, the wipers had to be manually activated by changing the frequency.The project's purpose is to improve the systems of older cars by providing automated transmission. wiping technology, to improve the system by including a sensor and actuator, and to develop a basic programme that would work with the system completely.The principle of this proposed wiper system is similar to that of other existing conventional wipers. Regardless of the fact that to drain water from the windscreen, this system will be updated to an automatic control system using a Peripheral Interface
