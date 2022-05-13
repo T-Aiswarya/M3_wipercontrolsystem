@@ -9,17 +9,17 @@ STM32 CUBE IDE
 # SWOT ANALYSIS
 # Strength:
   1.Cost efficient
-  2.Easy Installation
-  3.Manually and automatically operated.
+   2.Easy Installation
+    3.Manually and automatically operated.
 # Weakness:
   1.Any failure in the system leads to difficulties during waterfall.
-  2.Range is limited
+   2.Range is limited
 # Opportunities:
   1. Cleans the windscreen
-  2. It can be developed into a product.
+   2. It can be developed into a product.
 # Threats:
   1.Noise is produced as it has a mechanical drive system for cleaning.
-  2. Clearly to be monitored.
+   2. Clearly to be monitored.
   
 # 4W's and 1'H
 # Who
